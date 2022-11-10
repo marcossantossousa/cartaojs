@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: rgb(135, 241, 125);
+    background-color: rgb(147, 172, 147);
     font-family: Arial, Helvetica, sans-serif;
     color: #fff;
     display: flex;
@@ -47,4 +47,10 @@ img[alt=master]{
 .footer p{
     margin: 15px;
     height: 20;
+}
+
+#marcos {
+    color: #fff;
+    font-weight: bold;
+    
 }
